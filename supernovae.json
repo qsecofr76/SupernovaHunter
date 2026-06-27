@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-06-26 19:29:13 UTC",
+    "generated_at": "2026-06-27 19:05:36 UTC",
     "days_limit": 120,
-    "total_count": 526
+    "total_count": 522
   },
   "supernovae": [
     {
@@ -10444,86 +10444,6 @@
       "source_group": "ZTF",
       "redshift": null,
       "reporters": "Jesper Sollerman (SU), Christoffer Fremling (Caltech), Daniel Perley (LJMU), Theophile du Laz (Caltech) on behalf of ZTF"
-    },
-    {
-      "objid": 202404,
-      "name": "2026epx",
-      "prefix": "AT",
-      "ra": 175.078458,
-      "dec": -39.752833,
-      "type": "CV",
-      "constellation": "Centaurus",
-      "host_galaxy": "PGC 595125 (vicina, a 0.12°)",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.11859356359642674,
-      "discoverydate": "2026-02-27 21:33:04.608",
-      "discoverymag": 17.1,
-      "discmagfilter": "0",
-      "filter": "Other",
-      "reporting_group": "MASTER",
-      "source_group": "MASTER",
-      "redshift": null,
-      "reporters": "K.Vetrov, V.Lipunov, E.Gorbovskoy, A.Kuznetsov, K.Zhirkov, I.Panchenko, N.Tiurina, P.Balanutsa, V.Topolev, D.Vlasenko, G.Antipov, A.Sankovich, Yu.Tselik, Ya.Kechin, V.Senik, A.Chasovnikov, K.Labsina, I. Gorbunov (Lomonosov MSU), O.Gress, N.Budnev (ISU), C.Francile, F. Podesta, R.Podesta, E. Gonzalez (Observatorio Astronomico Felix Aguilar (OAFA), A. Tlatov, D. Dormidontov (Kislovodsk Solar Station of the Pulkovo Observatory), A.Sosnovskij (CrAO), A. Gabovich, V.Yurkov (Blagoveschensk Educational StateUniversity), D.Buckley (SAAO), R.Rebolo (The Instituto de Astrofisica de Canarias), L.Carrasco, J.R.Valdes, V.Chavushyan, V.M.Patino Alvarez, J.Martinez, A.R.Corella, L.H.Rodriguez (INAOE, Guillermo Haro Astrophysics Observatory)"
-    },
-    {
-      "objid": 202452,
-      "name": "2026erp",
-      "prefix": "AT",
-      "ra": 121.76,
-      "dec": -11.362639,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Puppis",
-      "host_galaxy": "N/A",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": null,
-      "discoverydate": "2026-02-27 15:27:53.568",
-      "discoverymag": 18.15,
-      "discmagfilter": "1",
-      "filter": "Clear",
-      "reporting_group": "None",
-      "source_group": "None",
-      "redshift": null,
-      "reporters": "Ziyang Mai, Bozhang Shi, Zhiyuan Wan"
-    },
-    {
-      "objid": 202433,
-      "name": "2026eqz",
-      "prefix": "AT",
-      "ra": 243.333467273,
-      "dec": -30.38069,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Scorpius",
-      "host_galaxy": "N/A",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": null,
-      "discoverydate": "2026-02-27 08:12:50.400",
-      "discoverymag": 18.318,
-      "discmagfilter": "72",
-      "filter": "orange",
-      "reporting_group": "ATLAS",
-      "source_group": "ATLAS",
-      "redshift": null,
-      "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, M. Fulton, M. McCollum, T. Moore, J. Weston, X. Sheng, C. R. Angus, A. Wilson, A. Aamer, D. Magill, P. J. Broda, A. J. Smith (QUB), P. Ramsden (Birmingham/QUB), L. Shingles (GSI/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), A. Rest (STScI), T.-W. Chen (NCU), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
-    },
-    {
-      "objid": 202401,
-      "name": "2026epv",
-      "prefix": "AT",
-      "ra": 15.108762,
-      "dec": 47.992492,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Andromeda",
-      "host_galaxy": "PGC 3603 (UGC622)",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.006226651337399737,
-      "discoverydate": "2026-02-27 00:00:00.000",
-      "discoverymag": 17.5,
-      "discmagfilter": "1",
-      "filter": "Clear",
-      "reporting_group": "None",
-      "source_group": "None",
-      "redshift": null,
-      "reporters": "Giancarlo Cortini"
     }
   ]
 }
