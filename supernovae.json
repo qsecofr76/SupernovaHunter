@@ -1,10 +1,30 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30 19:44:08 UTC",
+    "generated_at": "2026-07-01 19:30:53 UTC",
     "days_limit": 120,
-    "total_count": 558
+    "total_count": 557
   },
   "supernovae": [
+    {
+      "objid": 211881,
+      "name": "2026qui",
+      "prefix": "AT",
+      "ra": 239.9043599,
+      "dec": 7.8503691,
+      "type": "Supernova (Unclassified)",
+      "constellation": "Serpens",
+      "host_galaxy": "N/A",
+      "host_galaxy_distance_ly": null,
+      "host_galaxy_separation_deg": null,
+      "discoverydate": "2026-06-30 05:24:32.996",
+      "discoverymag": 18.4783,
+      "discmagfilter": "110",
+      "filter": "g",
+      "reporting_group": "ZTF",
+      "source_group": "ZTF",
+      "redshift": null,
+      "reporters": "Jesper Sollerman (SU), Christoffer Fremling (Caltech), Daniel Perley (LJMU), Theophile du Laz (Caltech) on behalf of ZTF"
+    },
     {
       "objid": 211858,
       "name": "2026qtn",
@@ -11124,46 +11144,6 @@
       "source_group": "ATLAS",
       "redshift": null,
       "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, M. Fulton, M. McCollum, T. Moore, J. Weston, X. Sheng, C. R. Angus, A. Wilson, A. Aamer, D. Magill, P. J. Broda, A. J. Smith (QUB), P. Ramsden (Birmingham/QUB), L. Shingles (GSI/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), A. Rest (STScI), T.-W. Chen (NCU), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
-    },
-    {
-      "objid": 202633,
-      "name": "2026ewc",
-      "prefix": "AT",
-      "ra": 133.204625,
-      "dec": -66.142972,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Volans",
-      "host_galaxy": "N/A",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": null,
-      "discoverydate": "2026-03-03 18:55:35.040",
-      "discoverymag": 14.8,
-      "discmagfilter": "0",
-      "filter": "Other",
-      "reporting_group": "MASTER",
-      "source_group": "MASTER",
-      "redshift": null,
-      "reporters": "D.Sankovskii, V.Lipunov, E.Gorbovskoy, A.Kuznetsov, K.Zhirkov, I.Panchenko, N.Tiurina, P.Balanutsa, V.Topolev, D.Vlasenko, G.Antipov, A.Sankovich, Yu.Tselik, Ya.Kechin, V.Senik, A.Chasovnikov, K.Labsina, I. Gorbunov (Lomonosov MSU), O.Gress, N.Budnev (ISU), C.Francile, F. Podesta, R.Podesta, E. Gonzalez (Observatorio Astronomico Felix Aguilar (OAFA), A. Tlatov, D. Dormidontov (Kislovodsk Solar Station of the Pulkovo Observatory), A.Sosnovskij (CrAO), A. Gabovich, V.Yurkov (Blagoveschensk Educational StateUniversity), D.Buckley (SAAO), R.Rebolo (The Instituto de Astrofisica de Canarias), L.Carrasco, J.R.Valdes, V.Chavushyan, V.M.Patino Alvarez, J.Martinez, A.R.Corella, L.H.Rodriguez (INAOE, Guillermo Haro Astrophysics Observatory)"
-    },
-    {
-      "objid": 202566,
-      "name": "2026eva",
-      "prefix": "AT",
-      "ra": 88.292708,
-      "dec": 11.72475,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Orion",
-      "host_galaxy": "N/A",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": null,
-      "discoverydate": "2026-03-03 03:42:14.976",
-      "discoverymag": 16.6,
-      "discmagfilter": "1",
-      "filter": "Clear",
-      "reporting_group": "GEOTS",
-      "source_group": "GEOTS",
-      "redshift": null,
-      "reporters": "Balaji Kumar"
     }
   ]
 }
