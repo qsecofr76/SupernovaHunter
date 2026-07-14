@@ -1,10 +1,30 @@
 {
   "metadata": {
-    "generated_at": "2026-07-13 19:15:51 UTC",
+    "generated_at": "2026-07-14 19:03:52 UTC",
     "days_limit": 120,
-    "total_count": 534
+    "total_count": 533
   },
   "supernovae": [
+    {
+      "objid": 214524,
+      "name": "2026ukg",
+      "prefix": "AT",
+      "ra": 41.41919,
+      "dec": -27.9257,
+      "type": "Supernova (Unclassified)",
+      "constellation": "Fornax",
+      "host_galaxy": "PGC 10437 (MCG-5-07-019)",
+      "host_galaxy_distance_ly": null,
+      "host_galaxy_separation_deg": 0.0030272203430429683,
+      "discoverydate": "2026-07-13 02:09:36.000",
+      "discoverymag": 16.1,
+      "discmagfilter": "21",
+      "filter": "g",
+      "reporting_group": "ASAS-SN",
+      "source_group": "ASAS-SN",
+      "redshift": null,
+      "reporters": "K. Z. Stanek, for the ASAS-SN team"
+    },
     {
       "objid": 214419,
       "name": "2026ugi",
@@ -44,26 +64,6 @@
       "source_group": "LAST",
       "redshift": null,
       "reporters": "E. O. Ofek (WIS), R. Konno (WIS), E. A. Zimmerman (WIS), A. Horowicz (WIS), S. Garrappa (WIS), S. Ben-Ami (WIS), D. Polishook (WIS), O. Yaron (WIS), P. Chen (WIS), A. Krassilchtchikov (WIS), Y. M. Shani (WIS), E. Segre (WIS), A. Gal-Yam (WIS), S. Spitzer (WIS), and K. Rybicki (WIS) on behalf of the LAST Collaboration"
-    },
-    {
-      "objid": 214134,
-      "name": "2026twd",
-      "prefix": "AT",
-      "ra": 12.1998518182,
-      "dec": 22.9094963636,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Andromeda",
-      "host_galaxy": "PGC 1677585",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.03822611252721731,
-      "discoverydate": "2026-07-11 03:02:04.416",
-      "discoverymag": 18.458,
-      "discmagfilter": "73",
-      "filter": "wide",
-      "reporting_group": "ATLAS",
-      "source_group": "ATLAS",
-      "redshift": null,
-      "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, J. Weston, X. Sheng, C. R. Angus, D. Magill, A. J. Smith, L. Shingles (QUB), A. Aamer (Arizona), P. Ramsden (Birmingham/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), T. Moore, A. Rest (STScI), T.-W. Chen (NCU), C. Deasy-Millar (TCD), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
     },
     {
       "objid": 214141,
@@ -488,10 +488,10 @@
     {
       "objid": 213337,
       "name": "2026stl",
-      "prefix": "AT",
+      "prefix": "SN",
       "ra": 41.0022876471,
       "dec": 5.04648823529,
-      "type": "Supernova (Unclassified)",
+      "type": "SN II",
       "constellation": "Cetus",
       "host_galaxy": "PGC 10350 (CGCG415-3)",
       "host_galaxy_distance_ly": null,
@@ -502,7 +502,7 @@
       "filter": "orange",
       "reporting_group": "ATLAS",
       "source_group": "ATLAS",
-      "redshift": null,
+      "redshift": 0.0139,
       "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, J. Weston, X. Sheng, C. R. Angus, D. Magill, A. J. Smith, L. Shingles (QUB), A. Aamer (Arizona), P. Ramsden (Birmingham/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), T. Moore, A. Rest (STScI), T.-W. Chen (NCU), C. Deasy-Millar (TCD), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
     },
     {
@@ -588,10 +588,10 @@
     {
       "objid": 212470,
       "name": "2026roc",
-      "prefix": "SN",
+      "prefix": "AT",
       "ra": 300.6641441,
       "dec": -25.5642763,
-      "type": "SLSN-I",
+      "type": "CV",
       "constellation": "Sagittarius",
       "host_galaxy": "PGC 777037 (vicina, a 0.12°)",
       "host_galaxy_distance_ly": null,
@@ -891,7 +891,7 @@
       "prefix": "AT",
       "ra": 288.6306926,
       "dec": 12.0648898,
-      "type": "Supernova (Unclassified)",
+      "type": "Nova",
       "constellation": "Aquila",
       "host_galaxy": "N/A",
       "host_galaxy_distance_ly": null,
@@ -902,7 +902,7 @@
       "filter": "r",
       "reporting_group": "DCAP",
       "source_group": "ZTF",
-      "redshift": null,
+      "redshift": 0.0,
       "reporters": "Minrui Ning, Huixuan Lin, on behalf of DCAP"
     },
     {
@@ -10664,26 +10664,6 @@
       "source_group": "BlackGEM",
       "redshift": null,
       "reporters": "L. Landsberg, H. Tranin, F. Stoppa, D. Pieterse, G. Ramsay, S. Faris, P. Groot, P. Vreeswijk, N. Blagorodnova, J. van Roestel, H. Wichern, S. Scaringi"
-    },
-    {
-      "objid": 203528,
-      "name": "2026gap",
-      "prefix": "AT",
-      "ra": 317.236253889,
-      "dec": -70.4941683333,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Pavo",
-      "host_galaxy": "PGC 273412",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.00014043473538447244,
-      "discoverydate": "2026-03-16 08:55:52.032",
-      "discoverymag": 18.43,
-      "discmagfilter": "71",
-      "filter": "cyan",
-      "reporting_group": "ATLAS",
-      "source_group": "ATLAS",
-      "redshift": null,
-      "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, M. Fulton, M. McCollum, T. Moore, J. Weston, X. Sheng, C. R. Angus, A. Wilson, A. Aamer, D. Magill, P. J. Broda, A. J. Smith (QUB), P. Ramsden (Birmingham/QUB), L. Shingles (GSI/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), A. Rest (STScI), T.-W. Chen (NCU), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
     }
   ]
 }
