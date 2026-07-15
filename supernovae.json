@@ -1,28 +1,68 @@
 {
   "metadata": {
-    "generated_at": "2026-07-14 19:03:52 UTC",
+    "generated_at": "2026-07-15 19:04:42 UTC",
     "days_limit": 120,
-    "total_count": 533
+    "total_count": 534
   },
   "supernovae": [
     {
+      "objid": 214635,
+      "name": "2026umt",
+      "prefix": "AT",
+      "ra": 172.6674925,
+      "dec": -15.59992,
+      "type": "Supernova (Unclassified)",
+      "constellation": "Crater",
+      "host_galaxy": "PGC 907849 (vicina, a 0.09°)",
+      "host_galaxy_distance_ly": null,
+      "host_galaxy_separation_deg": 0.09052285686470378,
+      "discoverydate": "2026-07-14 00:28:23.808",
+      "discoverymag": 18.441,
+      "discmagfilter": "71",
+      "filter": "cyan",
+      "reporting_group": "ATLAS",
+      "source_group": "ATLAS",
+      "redshift": null,
+      "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, J. Weston, X. Sheng, C. R. Angus, D. Magill, A. J. Smith, L. Shingles (QUB), A. Aamer (Arizona), P. Ramsden (Birmingham/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), T. Moore, A. Rest (STScI), T.-W. Chen (NCU), C. Deasy-Millar (TCD), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
+    },
+    {
+      "objid": 214806,
+      "name": "2026uti",
+      "prefix": "AT",
+      "ra": 11.235125,
+      "dec": 41.961556,
+      "type": "Supernova (Unclassified)",
+      "constellation": "Andromeda",
+      "host_galaxy": "N/A",
+      "host_galaxy_distance_ly": null,
+      "host_galaxy_separation_deg": null,
+      "discoverydate": "2026-07-13 19:15:41.184",
+      "discoverymag": 17.98,
+      "discmagfilter": "1",
+      "filter": "Clear",
+      "reporting_group": "XOSS",
+      "source_group": "XOSS",
+      "redshift": null,
+      "reporters": "Mi Zhang, Jianlin Xu, Hualin Li, Ziyang Mai, Leiming Tang, Yanxi Li, Ezhar Elijan, Wenjie Zhou, Jingyuan Zhao, Guoyou Sun, Jiangao Ruan, Xing Gao, on behalf of the PSP team"
+    },
+    {
       "objid": 214524,
       "name": "2026ukg",
-      "prefix": "AT",
-      "ra": 41.41919,
-      "dec": -27.9257,
-      "type": "Supernova (Unclassified)",
+      "prefix": "SN",
+      "ra": 41.4191775,
+      "dec": -27.925753125,
+      "type": "SN Ia",
       "constellation": "Fornax",
       "host_galaxy": "PGC 10437 (MCG-5-07-019)",
       "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.0030272203430429683,
+      "host_galaxy_separation_deg": 0.00297560632560644,
       "discoverydate": "2026-07-13 02:09:36.000",
       "discoverymag": 16.1,
       "discmagfilter": "21",
       "filter": "g",
       "reporting_group": "ASAS-SN",
       "source_group": "ASAS-SN",
-      "redshift": null,
+      "redshift": 0.02,
       "reporters": "K. Z. Stanek, for the ASAS-SN team"
     },
     {
@@ -10644,26 +10684,6 @@
       "source_group": "ASAS-SN",
       "redshift": null,
       "reporters": "K. Z. Stanek, for the ASAS-SN team"
-    },
-    {
-      "objid": 203318,
-      "name": "2026fuh",
-      "prefix": "AT",
-      "ra": 189.421729,
-      "dec": 26.707672,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Coma Berenices",
-      "host_galaxy": "IC 3599",
-      "host_galaxy_distance_ly": 289988136,
-      "host_galaxy_separation_deg": 3.722130241815659e-05,
-      "discoverydate": "2026-03-17 04:58:32.000",
-      "discoverymag": 17.14,
-      "discmagfilter": "118",
-      "filter": "BG-q",
-      "reporting_group": "BlackGEM",
-      "source_group": "BlackGEM",
-      "redshift": null,
-      "reporters": "L. Landsberg, H. Tranin, F. Stoppa, D. Pieterse, G. Ramsay, S. Faris, P. Groot, P. Vreeswijk, N. Blagorodnova, J. van Roestel, H. Wichern, S. Scaringi"
     }
   ]
 }
