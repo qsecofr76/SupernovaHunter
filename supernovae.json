@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-09-14 21:14:34 UTC",
+    "generated_at": "2026-09-15 20:42:41 UTC",
     "days_limit": 120,
-    "total_count": 452
+    "total_count": 449
   },
   "supernovae": [
     {
@@ -8984,66 +8984,6 @@
       "source_group": "None",
       "redshift": null,
       "reporters": "Gabriel Jaimes-Illanes"
-    },
-    {
-      "objid": 209102,
-      "name": "2026nal",
-      "prefix": "AT",
-      "ra": 31.45738262066,
-      "dec": -30.48541109979,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Fornax",
-      "host_galaxy": "PGC 198959 (DUKST414-39)",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.0019422042540477578,
-      "discoverydate": "2026-05-18 10:19:12.000",
-      "discoverymag": 15.4,
-      "discmagfilter": "21",
-      "filter": "g",
-      "reporting_group": "ASAS-SN",
-      "source_group": "ASAS-SN",
-      "redshift": null,
-      "reporters": "K. Z. Stanek, for the ASAS-SN team"
-    },
-    {
-      "objid": 209072,
-      "name": "2026mzk",
-      "prefix": "AT",
-      "ra": 20.31738,
-      "dec": -29.98502,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Sculptor",
-      "host_galaxy": "PGC 722843",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.0021402969528704257,
-      "discoverydate": "2026-05-18 09:48:36.864",
-      "discoverymag": 18.373,
-      "discmagfilter": "71",
-      "filter": "cyan",
-      "reporting_group": "ATLAS",
-      "source_group": "ATLAS",
-      "redshift": null,
-      "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, M. Fulton, M. McCollum, T. Moore, J. Weston, X. Sheng, C. R. Angus, A. Wilson, A. Aamer, D. Magill, P. J. Broda, A. J. Smith (QUB), P. Ramsden (Birmingham/QUB), L. Shingles (GSI/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), A. Rest (STScI), T.-W. Chen (NCU), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
-    },
-    {
-      "objid": 209094,
-      "name": "2026nad",
-      "prefix": "SN",
-      "ra": 7.7560854515069,
-      "dec": -13.647725972338,
-      "type": "SN Ia",
-      "constellation": "Cetus",
-      "host_galaxy": "PGC 935103",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.00016693185293658195,
-      "discoverydate": "2026-05-18 09:31:51.168",
-      "discoverymag": 15.715,
-      "discmagfilter": "71",
-      "filter": "cyan",
-      "reporting_group": "ATLAS",
-      "source_group": "ATLAS",
-      "redshift": 0.0092,
-      "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, M. Fulton, M. McCollum, T. Moore, J. Weston, X. Sheng, C. R. Angus, A. Wilson, A. Aamer, D. Magill, P. J. Broda, A. J. Smith (QUB), P. Ramsden (Birmingham/QUB), L. Shingles (GSI/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), A. Rest (STScI), T.-W. Chen (NCU), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
     }
   ]
 }
