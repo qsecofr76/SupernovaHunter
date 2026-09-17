@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-09-16 20:40:37 UTC",
+    "generated_at": "2026-09-17 20:48:47 UTC",
     "days_limit": 120,
-    "total_count": 453
+    "total_count": 452
   },
   "supernovae": [
     {
@@ -44,6 +44,26 @@
       "source_group": "XOSS",
       "redshift": null,
       "reporters": "Jianlin Xu, Mi Zhang, Ziyang Mai, Guoyou Sun, Jiangao Ruan, Jingyuan Zhao, Wenjie Zhou, Yong Ma, Ezhar Elijan, Ye, Zhuoyang Chen (Xingming Obs.), Hanjie Tan (AUUK), Guangwei Wu (NAAA), Xing Gao, Ali Esamdin, Chunhai Bai, Yong Wang (XAO), on behalf of the KATS team"
+    },
+    {
+      "objid": 220325,
+      "name": "2026abwr",
+      "prefix": "AT",
+      "ra": 124.4288017,
+      "dec": 47.3171535,
+      "type": "Supernova (Unclassified)",
+      "constellation": "Lynx",
+      "host_galaxy": "PGC 2296284 (NPM1G+47.0108)",
+      "host_galaxy_distance_ly": null,
+      "host_galaxy_separation_deg": 0.016294452098269695,
+      "discoverydate": "2026-09-13 11:24:59.996",
+      "discoverymag": 18.4,
+      "discmagfilter": "111",
+      "filter": "r",
+      "reporting_group": "ZTF",
+      "source_group": "ZTF",
+      "redshift": null,
+      "reporters": "Jesper Sollerman (SU), Christoffer Fremling (Caltech), Daniel Perley (LJMU), Theophile du Laz (Caltech) on behalf of ZTF"
     },
     {
       "objid": 220057,
@@ -169,13 +189,13 @@
       "objid": 220129,
       "name": "2026abpj",
       "prefix": "AT",
-      "ra": 23.027208,
-      "dec": 21.618361,
+      "ra": 23.0273542,
+      "dec": 21.6184015,
       "type": "Supernova (Unclassified)",
       "constellation": "Pisces",
       "host_galaxy": "PGC 1651152 (vicina, a 0.13°)",
       "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.126777024994765,
+      "host_galaxy_separation_deg": 0.12679647471091052,
       "discoverydate": "2026-09-10 20:03:40.896",
       "discoverymag": 18.41,
       "discmagfilter": "1",
@@ -784,6 +804,26 @@
       "source_group": "MASTER",
       "redshift": null,
       "reporters": "Ya.Kechin, V.Lipunov, E.Gorbovskoy, A.Kuznetsov, K.Zhirkov, I.Panchenko, N.Tiurina, P.Balanutsa, V.Topolev, D.Vlasenko, G.Antipov, A.Sankovich, Yu.Tselik, V.Senik, A.Chasovnikov, K.Labsina, I. Gorbunov (Lomonosov MSU), O.Gress, N.Budnev (ISU), M. Segura, F. Podesta, R.Podesta, E. Gonzalez (Observatorio Astronomico Felix Aguilar (OAFA), A. Tlatov, D. Dormidontov (Kislovodsk Solar Station of the Pulkovo Observatory), A.Sosnovskij (CrAO), A. Gabovich, V.Yurkov (Blagoveschensk Educational StateUniversity), D.Buckley (SAAO), R.Rebolo (The Instituto de Astrofisica de Canarias), L.Carrasco, J.R.Valdes, V.Chavushyan, V.M.Patino Alvarez, J.Martinez, A.R.Corella, L.H.Rodriguez (INAOE, Guillermo Haro Astrophysics Observatory)"
+    },
+    {
+      "objid": 220292,
+      "name": "2026abvl",
+      "prefix": "AT",
+      "ra": 212.4439608,
+      "dec": 11.5835671,
+      "type": "Supernova (Unclassified)",
+      "constellation": "Bootes",
+      "host_galaxy": "PGC 50538 (CGCG74-124)",
+      "host_galaxy_distance_ly": null,
+      "host_galaxy_separation_deg": 0.0015397066232833666,
+      "discoverydate": "2026-09-01 03:19:33.000",
+      "discoverymag": 18.3411,
+      "discmagfilter": "111",
+      "filter": "r",
+      "reporting_group": "ZTF",
+      "source_group": "ZTF",
+      "redshift": null,
+      "reporters": "Jesper Sollerman (SU), Christoffer Fremling (Caltech), Daniel Perley (LJMU), Theophile du Laz (Caltech) on behalf of ZTF"
     },
     {
       "objid": 219804,
@@ -9004,66 +9044,6 @@
       "source_group": "ZTF",
       "redshift": 0.04648,
       "reporters": "Jesper Sollerman (SU), Christoffer Fremling (Caltech), Daniel Perley (LJMU), Theophile du Laz (Caltech) on behalf of ZTF"
-    },
-    {
-      "objid": 209216,
-      "name": "2026nes",
-      "prefix": "AT",
-      "ra": 291.4925719,
-      "dec": -18.6327855,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Sagittarius",
-      "host_galaxy": "N/A",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": null,
-      "discoverydate": "2026-05-20 09:33:35.003",
-      "discoverymag": 17.8623,
-      "discmagfilter": "110",
-      "filter": "g",
-      "reporting_group": "ZTF",
-      "source_group": "ZTF",
-      "redshift": null,
-      "reporters": "Nabeel Rehemtulla (CIERA, NU), Wynn Jacobson-Galán (Caltech), Theophile du Laz (Caltech) on behalf of ZTF"
-    },
-    {
-      "objid": 209234,
-      "name": "2026nfj",
-      "prefix": "AT",
-      "ra": 282.59210205078,
-      "dec": 74.933799743652,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Draco",
-      "host_galaxy": "PGC 2764656 (NPM1G+74.0157) (vicina, a 0.13°)",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.12520622471764709,
-      "discoverydate": "2026-05-20 00:21:31.680",
-      "discoverymag": 17.95,
-      "discmagfilter": "1",
-      "filter": "Clear",
-      "reporting_group": "LAST",
-      "source_group": "LAST",
-      "redshift": null,
-      "reporters": "E. O. Ofek (WIS), R. Konno (WIS), E. A. Zimmerman (WIS), A. Horowicz (WIS), S. Garrappa (WIS), S. Ben-Ami (WIS), D. Polishook (WIS), O. Yaron (WIS), P. Chen (WIS), A. Krassilchtchikov (WIS), Y. M. Shani (WIS), E. Segre (WIS), A. Gal-Yam (WIS), S. Spitzer (WIS), and K. Rybicki (WIS) on behalf of the LAST Collaboration"
-    },
-    {
-      "objid": 209433,
-      "name": "2026nmo",
-      "prefix": "AT",
-      "ra": 215.98594,
-      "dec": -58.62965,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Centaurus",
-      "host_galaxy": "N/A",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": null,
-      "discoverydate": "2026-05-20 00:14:24.000",
-      "discoverymag": 14.9,
-      "discmagfilter": "21",
-      "filter": "g",
-      "reporting_group": "ASAS-SN",
-      "source_group": "ASAS-SN",
-      "redshift": null,
-      "reporters": "K. Z. Stanek, for the ASAS-SN team"
     }
   ]
 }
