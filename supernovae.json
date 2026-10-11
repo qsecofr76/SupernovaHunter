@@ -1,10 +1,30 @@
 {
   "metadata": {
-    "generated_at": "2026-10-10 20:56:38 UTC",
+    "generated_at": "2026-10-11 21:19:19 UTC",
     "days_limit": 120,
-    "total_count": 466
+    "total_count": 465
   },
   "supernovae": [
+    {
+      "objid": 222700,
+      "name": "2026afcv",
+      "prefix": "AT",
+      "ra": 244.0028375,
+      "dec": -60.7982083333,
+      "type": "Supernova (Unclassified)",
+      "constellation": "Triangulum Australe",
+      "host_galaxy": "PGC 57652 (ESO137-10)",
+      "host_galaxy_distance_ly": null,
+      "host_galaxy_separation_deg": 0.02218709095474321,
+      "discoverydate": "2026-10-10 00:25:24.096",
+      "discoverymag": 18.352,
+      "discmagfilter": "71",
+      "filter": "cyan",
+      "reporting_group": "ATLAS",
+      "source_group": "ATLAS",
+      "redshift": null,
+      "reporters": "J. Tonry, L. Denneau, H. Weiland, E. Gafton (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, J. Weston, X. Sheng, C. R. Angus, D. Magill, A. J. Smith, L. Shingles, K. Halder (QUB), A. Aamer (Arizona), P. Ramsden (Birmingham/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), T. Moore, A. Rest (STScI), T.-W. Chen (NCU), C. Deasy-Millar (TCD), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
+    },
     {
       "objid": 222556,
       "name": "2026aexm",
@@ -44,6 +64,26 @@
       "source_group": "ZTF",
       "redshift": null,
       "reporters": "A. Munoz-Arancibia, F.E. Bauer, G. Pignata, F. Forster, S. Jurado, A. Mourao, A. Alvarez, F. Andrades, A. Bayo, G. Cabrera-Vives, M. Catelan, P.A. Estevez, S. Eyheramendy, B. Galindo, L. Hernandez-Garcia, H. Larranaga, K. Medina, D. Moreno-Cartagena, E. Munoz, I. Reyes, P. Sanchez-Saez, D. Rodriguez-Mancini, on behalf of the ALeRCE broker"
+    },
+    {
+      "objid": 222595,
+      "name": "2026aeyw",
+      "prefix": "AT",
+      "ra": 157.6799599,
+      "dec": 71.6261472,
+      "type": "Supernova (Unclassified)",
+      "constellation": "Ursa Major",
+      "host_galaxy": "PGC 2816717 (IRAS10276+7153) (vicina, a 0.07°)",
+      "host_galaxy_distance_ly": null,
+      "host_galaxy_separation_deg": 0.0674786613641294,
+      "discoverydate": "2026-10-09 11:41:14.000",
+      "discoverymag": 18.2356,
+      "discmagfilter": "111",
+      "filter": "r",
+      "reporting_group": "ZTF",
+      "source_group": "ZTF",
+      "redshift": null,
+      "reporters": "Jesper Sollerman (SU), Christoffer Fremling (Caltech), Daniel Perley (LJMU), Theophile du Laz (Caltech) on behalf of ZTF"
     },
     {
       "objid": 222396,
@@ -468,10 +508,10 @@
     {
       "objid": 221797,
       "name": "2026adyr",
-      "prefix": "AT",
+      "prefix": "SN",
       "ra": 46.7884737,
       "dec": 20.9663579,
-      "type": "Supernova (Unclassified)",
+      "type": "SN Ia",
       "constellation": "Aries",
       "host_galaxy": "PGC 1639736",
       "host_galaxy_distance_ly": null,
@@ -482,7 +522,7 @@
       "filter": "L",
       "reporting_group": "GOTO",
       "source_group": "GOTO",
-      "redshift": null,
+      "redshift": 0.037,
       "reporters": "G. Ramsay, D. O'Neill, K. Ackley, M. Dyer, J. Lyman, K. Ulaczyk, D. Steeghs, D. Galloway, V. Dhillon, P. O'Brien, K. Noysena, R. Kotak, R. Breton, J. Casares, L. Nuttall, R. Starling, B. Gompertz, B. Godson, T. Killestein, A. Kumar, M. Pursiainen, on behalf of GOTO collaboration"
     },
     {
@@ -9264,66 +9304,6 @@
       "source_group": "ATLAS",
       "redshift": 0.028,
       "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, J. Weston, X. Sheng, C. R. Angus, D. Magill, A. J. Smith (QUB), A. Aamer (Arizona), P. Ramsden (Birmingham/QUB), L. Shingles (GSI/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), T. Moore, A. Rest (STScI), T.-W. Chen (NCU), C. Deasy-Millar (TCD), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
-    },
-    {
-      "objid": 210628,
-      "name": "2026pbe",
-      "prefix": "AT",
-      "ra": 311.736744374,
-      "dec": -9.38141269144,
-      "type": "CV",
-      "constellation": "Aquarius",
-      "host_galaxy": "N/A",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": null,
-      "discoverydate": "2026-06-13 02:39:59.904",
-      "discoverymag": 18.06,
-      "discmagfilter": "120",
-      "filter": "L",
-      "reporting_group": "GOTO",
-      "source_group": "GOTO",
-      "redshift": 0.0,
-      "reporters": "D. O'Neill, T. Killestein, K. Ackley, M. Dyer, J. Lyman, K. Ulaczyk, D. Steeghs, D. Galloway, V. Dhillon, P. O'Brien, G. Ramsay, K. Noysena, R. Kotak, R. Breton, J. Casares, L. Nuttall, R. Starling, B. Gompertz, B. Godson, A. Kumar, M. Pursiainen, on behalf of GOTO collaboration"
-    },
-    {
-      "objid": 210857,
-      "name": "2026pjn",
-      "prefix": "AT",
-      "ra": 175.0905633,
-      "dec": -2.7036118,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Virgo",
-      "host_galaxy": "PGC 36208 (CGCG12-55)",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": 0.00014646884419634688,
-      "discoverydate": "2026-06-13 02:26:39.840",
-      "discoverymag": 17.345,
-      "discmagfilter": "72",
-      "filter": "orange",
-      "reporting_group": "ATLAS",
-      "source_group": "ATLAS",
-      "redshift": null,
-      "reporters": "J. Tonry, L. Denneau, H. Weiland (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, M. Fulton, M. McCollum, T. Moore, J. Weston, X. Sheng, C. R. Angus, A. Wilson, A. Aamer, D. Magill, P. J. Broda, A. J. Smith (QUB), P. Ramsden (Birmingham/QUB), L. Shingles (GSI/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman (Oxford), L. Rhodes (TSI/McGill), A. Rest (STScI), T.-W. Chen (NCU), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
-    },
-    {
-      "objid": 210624,
-      "name": "2026pba",
-      "prefix": "AT",
-      "ra": 286.18182373047,
-      "dec": 44.84741973877,
-      "type": "Supernova (Unclassified)",
-      "constellation": "Lyra",
-      "host_galaxy": "N/A",
-      "host_galaxy_distance_ly": null,
-      "host_galaxy_separation_deg": null,
-      "discoverydate": "2026-06-13 00:25:24.960",
-      "discoverymag": 17.95,
-      "discmagfilter": "1",
-      "filter": "Clear",
-      "reporting_group": "LAST",
-      "source_group": "LAST",
-      "redshift": null,
-      "reporters": "E. O. Ofek (WIS), R. Konno (WIS), E. A. Zimmerman (WIS), A. Horowicz (WIS), S. Garrappa (WIS), S. Ben-Ami (WIS), D. Polishook (WIS), O. Yaron (WIS), P. Chen (WIS), A. Krassilchtchikov (WIS), Y. M. Shani (WIS), E. Segre (WIS), A. Gal-Yam (WIS), S. Spitzer (WIS), and K. Rybicki (WIS) on behalf of the LAST Collaboration"
     }
   ]
 }
