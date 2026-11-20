@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-20 00:02:27 UTC",
+    "generated_at": "2026-11-20 23:29:59 UTC",
     "days_limit": 120,
     "total_count": 440
   },
@@ -71,7 +71,7 @@
       "prefix": "AT",
       "ra": 100.588389,
       "dec": -27.924894,
-      "type": "Supernova (Unclassified)",
+      "type": "CV",
       "constellation": "Canis Major",
       "host_galaxy": "N/A",
       "host_galaxy_distance_ly": null,
@@ -82,7 +82,7 @@
       "filter": "L",
       "reporting_group": "GOTO",
       "source_group": "GOTO",
-      "redshift": null,
+      "redshift": 0.0,
       "reporters": "B. Godson, K. Ackley, M. Dyer, J. Lyman, K. Ulaczyk, D. Steeghs, D. Galloway, V. Dhillon, P. O'Brien, G. Ramsay, K. Noysena, R. Kotak, R. Breton, J. Casares, L. Nuttall, R. Starling, B. Gompertz, T. Killestein, A. Kumar, D. O'Neill, M. Pursiainen, on behalf of GOTO collaboration"
     },
     {
@@ -248,10 +248,10 @@
     {
       "objid": 225767,
       "name": "2026ajkc",
-      "prefix": "AT",
+      "prefix": "SN",
       "ra": 288.53310375,
       "dec": 40.15351,
-      "type": "Supernova (Unclassified)",
+      "type": "SN Ia",
       "constellation": "Lyra",
       "host_galaxy": "N/A",
       "host_galaxy_distance_ly": null,
@@ -262,7 +262,7 @@
       "filter": "orange",
       "reporting_group": "ATLAS",
       "source_group": "ATLAS",
-      "redshift": null,
+      "redshift": 0.044281,
       "reporters": "J. Tonry, L. Denneau, H. Weiland, E. Gafton (IfA, University of Hawaii), N. Erasmus, W. Koorts (South African Astronomical Observatory), A. Jordan, V. Suc (UAI, Obstech), M. R. Alarcón, J. Licandro, P. Nichita (IAC), S. J. Smartt, K. W. Smith (Oxford/QUB), D. R. Young, M. Nicholl, J. Weston, X. Sheng, C. R. Angus, D. Magill, A. J. Smith, L. Shingles, K. Halder (QUB), A. Aamer (Arizona), P. Ramsden (Birmingham/QUB), S. Srivastav, J. H. Gillanders, H. Stevance, A. J. Cooper, F. Stoppa, J. Tweddle, L. Eastman, C. Liu (Oxford), L. Rhodes (TSI/McGill), T. Moore, A. Rest (STScI), T.-W. Chen (NCU), C. Deasy-Millar (TCD), C. Stubbs (Harvard), J. S. Sommer (LMU), B. P. Schmidt (ANU)"
     },
     {
@@ -949,8 +949,8 @@
       "objid": 224769,
       "name": "2026ahyf",
       "prefix": "SN",
-      "ra": 132.0534498,
-      "dec": 36.7792244,
+      "ra": 132.05342398114,
+      "dec": 36.779215506268,
       "type": "SN",
       "constellation": "Lynx",
       "host_galaxy": "N/A",
@@ -6129,8 +6129,8 @@
       "objid": 218912,
       "name": "2026zyf",
       "prefix": "SN",
-      "ra": 7.0595045,
-      "dec": 30.8022341,
+      "ra": 7.05952779107,
+      "dec": 30.8023120854,
       "type": "SN IIP",
       "constellation": "Andromeda",
       "host_galaxy": "N/A",
